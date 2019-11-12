@@ -16,7 +16,8 @@ end
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
-  nested_array = []
+  nested_array = [
+    ]
   
 end
 
